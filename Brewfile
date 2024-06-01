@@ -12,6 +12,12 @@
 # $ mas signin email@email.com
 # $ brew bundle install
 
+# Install a single cask
+# brew install app-name
+
+# Uninstall a single cask
+# brew uninstall app-name
+
 tap 'caskroom/cask'
 
 brew 'git'
